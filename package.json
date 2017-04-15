@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "express": "^4.13.4", "react": "^15.5.4",
+    "express": "^4.13.4",
+    "react": "^15.5.4",
     "react-dom": "^15.5.4"
   },
   "devDependencies": {
@@ -14,5 +15,17 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Witmaster/mafin.git"
+  },
+  "author": "Vladimir Ishchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Witmaster/mafin/issues"
+  },
+  "homepage": "https://github.com/Witmaster/mafin#readme"
 }
